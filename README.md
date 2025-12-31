@@ -4,14 +4,14 @@
 
 # StayEase – Housing Platform
 
-## 🔗 Live Demo
-👉 https://stayease-housing-platform.netlify.app
+## Live Demo
+https://stayease-housing-platform.netlify.app
 
 A modern, AI-assisted housing and co-living platform focused on clean UI, usability, and real-world product structure.
 
 ---
 
-## 🧠 AI Assistance & Credits
+## AI Assistance & Credits
 
 This project was built with the help of **Google AI Studio (Gemini)** during the initial development phase.
 
@@ -26,7 +26,7 @@ All final UI/UX decisions, layout refinement, and project structure were **manua
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - React
 - TypeScript
 - Vite
@@ -34,7 +34,7 @@ All final UI/UX decisions, layout refinement, and project structure were **manua
 
 ---
 
-## ✨ Key Features
+## Key Features
 - Housing & co-living listings UI
 - Modular component architecture
 - Responsive layout
@@ -43,7 +43,7 @@ All final UI/UX decisions, layout refinement, and project structure were **manua
 
 ---
 
-## 🚀 Running Locally
+## Running Locally
 
 ```bash
 npm install

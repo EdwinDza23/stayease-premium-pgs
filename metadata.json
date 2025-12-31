@@ -1,0 +1,7 @@
+{
+  "name": "StayEase - Premium PGs & Co-living",
+  "description": "A premium PG discovery and booking platform inspired by Airbnb, tailored for modern Indian students and professionals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

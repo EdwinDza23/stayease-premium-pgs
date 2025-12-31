@@ -2,19 +2,54 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# StayEase – Housing Platform
 
-This contains everything you need to run your app locally.
+## 🔗 Live Demo
+👉 https://stayease-housing-platform.netlify.app
 
-View your app in AI Studio: https://ai.studio/apps/drive/1S-vAQiqieL26cMfq3UKXWCEBbA3Td6Uu
+A modern, AI-assisted housing and co-living platform focused on clean UI, usability, and real-world product structure.
 
-## Run Locally
+<p align="center">
+  <img src="https://www.gstatic.com/aihub/tfhub/tf_logo.png" alt="Google AI Studio" width="180"/>
+</p>
 
-**Prerequisites:**  Node.js
+---
 
+## 🧠 AI Assistance & Credits
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This project was built with the help of **Google AI Studio (Gemini)** during the initial development phase.
+
+AI was used for:
+- Component scaffolding
+- Rapid iteration of UI ideas
+- Boilerplate generation
+
+All final UI/UX decisions, layout refinement, and project structure were **manually reviewed, modified, and implemented** to ensure usability and production readiness.
+
+> Credit: Google AI Studio – https://ai.studio
+
+---
+
+## 🛠 Tech Stack
+- React
+- TypeScript
+- Vite
+- Netlify (Deployment)
+
+---
+
+## ✨ Key Features
+- Housing & co-living listings UI
+- Modular component architecture
+- Responsive layout
+- Clean navigation and structure
+- Production-ready deployment pipeline
+
+---
+
+## 🚀 Running Locally
+
+```bash
+npm install
+npm run dev
+

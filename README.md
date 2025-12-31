@@ -9,10 +9,6 @@
 
 A modern, AI-assisted housing and co-living platform focused on clean UI, usability, and real-world product structure.
 
-<p align="center">
-  <img src="https://www.gstatic.com/aihub/tfhub/tf_logo.png" alt="Google AI Studio" width="180"/>
-</p>
-
 ---
 
 ## 🧠 AI Assistance & Credits

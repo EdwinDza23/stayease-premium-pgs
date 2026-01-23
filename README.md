@@ -5,7 +5,7 @@
 # StayEase – Housing Platform
 
 ## Live Demo
-https://stayease-housing-platform.netlify.app
+stayease-pg.netlify.app
 
 A modern, AI-assisted housing and co-living platform focused on clean UI, usability, and real-world product structure.
 
